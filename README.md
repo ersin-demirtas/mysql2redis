@@ -1,6 +1,13 @@
 [MySQL2Redis][]
 ===============
 
+-----
+Updated to work with MySQL 5.7
+-----
+
+
+
+
 This is a [user-defined function (UDF) ][UDF] plugin for MySQL, which can
 provide some [redis][Redis] command support function
 to push data from MySQL to Redis.
